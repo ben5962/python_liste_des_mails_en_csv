@@ -1,0 +1,488 @@
+Return-Path: sophie.willem@domoveil.fr
+Received: from mail.domoveil.fr (LHLO mail.domoveil.fr) (10.2.0.142) by
+ mail.domoveil.fr with LMTP; Wed, 3 Apr 2013 14:32:49 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.domoveil.fr (Postfix) with ESMTP id 301047E42D7;
+	Wed,  3 Apr 2013 14:32:49 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at domoveil.fr
+X-Spam-Flag: NO
+X-Spam-Score: -2.096
+X-Spam-Level:
+X-Spam-Status: No, score=-2.096 tagged_above=-10 required=6.6
+	tests=[ALL_TRUSTED=-1, BAYES_00=-1.9, HTML_MESSAGE=0.001,
+	RDNS_NONE=0.793, T_KHOP_THREADED=-0.01, T_LONG_HEADER_LINE_80=0.01,
+	T_NOT_A_PERSON=-0.01, T_STOX_BOUND_090909_B=0.01,
+	T_UNKNOWN_ORIGIN=0.01] autolearn=no
+Received: from mail.domoveil.fr ([127.0.0.1])
+	by localhost (mail.domoveil.fr [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id NZzRT5aJBMmR; Wed,  3 Apr 2013 14:32:38 +0200 (CEST)
+Received: from mailrelay.domoveil.fr (unknown [10.2.0.4])
+	by mail.domoveil.fr (Postfix) with ESMTP id E10977E42CD
+	for <operateurs@domoveil.fr>; Wed,  3 Apr 2013 14:32:38 +0200 (CEST)
+Received: from [10.6.3.1] (unknown [10.6.3.1])
+	by mailrelay.domoveil.fr (Postfix) with ESMTP id 57D2129A2D
+	for <operateurs@domoveil.fr>; Wed,  3 Apr 2013 14:34:21 +0200 (CEST)
+Message-ID: <515C2203.4090304@domoveil.fr>
+Date: Wed, 03 Apr 2013 14:35:15 +0200
+From: Sophie WILLEM <sophie.willem@domoveil.fr>
+Organization: DOMOVEIL
+User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:15.0) Gecko/20120907 Thunderbird/15.0.1
+MIME-Version: 1.0
+To: operateurs@domoveil.fr
+Subject: Fwd: erreur ou pas sur le planning
+References: <176449379.13690.1364991505562.JavaMail.root@domoveil.fr>
+In-Reply-To: <176449379.13690.1364991505562.JavaMail.root@domoveil.fr>
+X-Forwarded-Message-Id: <176449379.13690.1364991505562.JavaMail.root@domoveil.fr>
+Content-Type: multipart/alternative;
+ boundary="------------060909000404080705050405"
+
+This is a multi-part message in MIME format.
+--------------060909000404080705050405
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: quoted-printable
+
+suite erreur de ma part modif sur planning semaine du 06/07 au 14/07
+lundi 	08/07/2013 		ludo 	chris 		domi 	laurent 		CO 6h-14h 	cl 14-22h=20
+loic 22-6h 		je 	ben
+mardi 	09/07/2013 		ludo 	chris 		domi 	laurent 		CO 6h-14h=20
+ameline14-22h 	loic 22-6h 		je 	ben
+mercredi 	10/07/2013 		humb 	pat 		surin 	STE 		CO 6h-14h=20
+ameline14-22h 	loic 22-6h 		je 	ben
+jeudi 	11/07/2013 		humb 	pat 		surin 	STE 		CO 6h-14h 	ameline14-22h=20
+loic 22-6h 		je 	ben
+vendredi 	12/07/2013 		humb 	pat 		surin 	STE 		CO 6h-14h=20
+ameline14-22h 	loic 22-6h 		je 	ben
+samedi 	13/07/2013 		ludo 	chris 		domi 	laurent 		cl(7h45-19h45) 		je 	b=
+en
+dimanche 	14/07/2013 		ludo 	chris 		domi 	laurent 		cl=20
+(7h45-19h45) 		je 	ben
+
+
+
+-------- Message original --------
+Sujet: 	erreur ou pas sur le planning
+Date : 	Wed, 3 Apr 2013 14:18:25 +0200 (CEST)
+De : 	Humberto VIEIRA <humberto.vieira@domoveil.fr>
+Pour : 	Sophie WILLEM <sophie.willem@domoveil.fr>
+
+
+
+Re bonjour Sophie,
+
+Je me permet de t'envoy=C3=A9e ce mail car apr=C3=A8s avoir verifi=C3=A9 =
+le planning, je m'appercoie que tu me fais travail 7 jours de suite.
+Est ce une erreur ?????
+
+                        6h00-18h00      18h00-6h00
+samedi	 06/07/2013  hum    pat	     surin    STE	      ameline (7h45-19h4=
+5)	=09
+dimanche 07/07/2013  hum    pat	     surin    STE	      ameline (7h45-19h=
+45)	=09
+lundi	 08/07/2013  ludo   chris    domi   laurent	hum 6h-14      cl 14-22=
+h   loic 22-6h
+mardi	 09/07/2013  ludo   chris    domi   laurent	hum 6h-14  ameline14-22=
+h   loic 22-6h
+mercredi 10/07/2013  CO	    pat	     surin    STE	hum 6h-14  ameline14-22=
+h   loic 22-6h
+jeudi	 11/07/2013  CO	    pat	     surin    STE	hum 6h-14  ameline14-22h =
+  loic 22-6h
+vendredi 12/07/2013  CO	    pat	     surin    STE	hum 6h-14  ameline14-22=
+h   loic 22-6h
+samedi	 13/07/2013  ludo   chris    domi   laurent	            cl(7h45-19=
+h45)	=09
+dimanche 14/07/2013  ludo   chris    domi   laurent                 cl(7h=
+45-19h45)
+
+Cordialement OP Humberto
+PC DOMOVEIL
+
+
+
+
+
+--------------060909000404080705050405
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+  <head>
+
+    <meta http-equiv=3D"content-type" content=3D"text/html; charset=3DUTF=
+-8">
+  </head>
+  <body bgcolor=3D"#FFFFFF" text=3D"#000000">
+    suite erreur de ma part modif sur planning semaine du 06/07 au 14/07<=
+br>
+    <div class=3D"moz-forward-container">
+      <table x:str=3D"" style=3D"border-collapse: collapse;width:703pt"
+        border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"934">
+        <colgroup><col style=3D"width:60pt" span=3D"2" width=3D"80"> <col
+            style=3D"mso-width-source:userset;mso-width-alt:658;width:14p=
+t"
+            width=3D"18"> <col style=3D"width:60pt" span=3D"2" width=3D"8=
+0"> <col
+style=3D"mso-width-source:userset;mso-width-alt:658;width:14pt" width=3D"=
+18">
+          <col style=3D"width:60pt" span=3D"2" width=3D"80"> <col
+            style=3D"mso-width-source:userset;mso-width-alt:658;width:14p=
+t"
+            width=3D"18"> <col style=3D"width:60pt" width=3D"80"> <col
+            style=3D"mso-width-source:userset;mso-width-alt:3328;width:68=
+pt"
+            width=3D"91"> <col
+            style=3D"mso-width-source:userset;mso-width-alt:4096;width:84=
+pt"
+            width=3D"112"> <col
+            style=3D"mso-width-source:userset;mso-width-alt:658;width:14p=
+t"
+            width=3D"18"> <col
+            style=3D"mso-width-source:userset;mso-width-alt:1792;width:37=
+pt"
+            width=3D"49"> <col
+            style=3D"mso-width-source:userset;mso-width-alt:1828;width:38=
+pt"
+            width=3D"50"> </colgroup><tbody>
+          <tr style=3D"mso-height-source:userset;height:12.95pt"
+            height=3D"17">
+            <td class=3D"xl33" style=3D"height:12.95pt;width:60pt"
+              height=3D"17" width=3D"80">lundi</td>
+            <td class=3D"xl34" style=3D"border-left:none;width:60pt"
+              x:num=3D"41463" width=3D"80">08/07/2013</td>
+            <td class=3D"xl43" style=3D"border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl31" style=3D"width:60pt" width=3D"80">ludo</td=
+>
+            <td class=3D"xl26" style=3D"border-left:none;width:60pt"
+              width=3D"80">chris</td>
+            <td class=3D"xl43" style=3D"border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl45" style=3D"width:60pt" width=3D"80">domi</td=
+>
+            <td class=3D"xl25" style=3D"border-left:none;width:60pt"
+              width=3D"80">laurent</td>
+            <td class=3D"xl43" style=3D"border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl35" style=3D"width:60pt" width=3D"80">CO 6h-14=
+h</td>
+            <td class=3D"xl46" style=3D"border-left:none;width:68pt"
+              width=3D"91">cl 14-22h</td>
+            <td class=3D"xl47" style=3D"border-left:none;width:84pt"
+              width=3D"112">loic 22-6h</td>
+            <td class=3D"xl42" style=3D"width:14pt" width=3D"18">=C2=A0</=
+td>
+            <td class=3D"xl40" style=3D"width:37pt" width=3D"49">je</td>
+            <td class=3D"xl27" style=3D"border-left:none;width:38pt"
+              width=3D"50">ben</td>
+          </tr>
+          <tr style=3D"mso-height-source:userset;height:12.95pt"
+            height=3D"17">
+            <td class=3D"xl22" style=3D"height:12.95pt;border-top:none;
+              width:60pt" height=3D"17" width=3D"80">mardi</td>
+            <td class=3D"xl23"
+              style=3D"border-top:none;border-left:none;width:60pt"
+              x:num=3D"41464" width=3D"80">09/07/2013</td>
+            <td class=3D"xl37"
+              style=3D"border-top:none;border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl31" style=3D"border-top:none;width:60pt"
+              width=3D"80">ludo</td>
+            <td class=3D"xl26"
+              style=3D"border-top:none;border-left:none;width:60pt"
+              width=3D"80">chris</td>
+            <td class=3D"xl37"
+              style=3D"border-top:none;border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl24" style=3D"border-top:none;width:60pt"
+              width=3D"80">domi</td>
+            <td class=3D"xl25"
+              style=3D"border-top:none;border-left:none;width:60pt"
+              width=3D"80">laurent</td>
+            <td class=3D"xl37"
+              style=3D"border-top:none;border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl35" style=3D"border-top:none;width:60pt"
+              width=3D"80">CO 6h-14h</td>
+            <td class=3D"xl36" style=3D"border-left:none">ameline14-22h</=
+td>
+            <td class=3D"xl44" style=3D"border-top:none;border-left:none"=
+>loic
+              22-6h</td>
+            <td class=3D"xl42" style=3D"border-top:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl40" style=3D"border-top:none;width:37pt"
+              width=3D"49">je</td>
+            <td class=3D"xl27"
+              style=3D"border-top:none;border-left:none;width:38pt"
+              width=3D"50">ben</td>
+          </tr>
+          <tr style=3D"mso-height-source:userset;height:12.95pt"
+            height=3D"17">
+            <td class=3D"xl22" style=3D"height:12.95pt;border-top:none;
+              width:60pt" height=3D"17" width=3D"80">mercredi</td>
+            <td class=3D"xl23"
+              style=3D"border-top:none;border-left:none;width:60pt"
+              x:num=3D"41465" width=3D"80">10/07/2013</td>
+            <td class=3D"xl37"
+              style=3D"border-top:none;border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl41" style=3D"border-top:none;width:60pt"
+              width=3D"80">humb</td>
+            <td class=3D"xl32"
+              style=3D"border-top:none;border-left:none;width:60pt"
+              width=3D"80">pat</td>
+            <td class=3D"xl37"
+              style=3D"border-top:none;border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl39" style=3D"border-top:none;width:60pt"
+              width=3D"80">surin</td>
+            <td class=3D"xl28"
+              style=3D"border-top:none;border-left:none;width:60pt"
+              width=3D"80">STE</td>
+            <td class=3D"xl37"
+              style=3D"border-top:none;border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl35" style=3D"border-top:none;width:60pt"
+              width=3D"80">CO 6h-14h</td>
+            <td class=3D"xl36" style=3D"border-top:none;border-left:none"=
+>ameline14-22h</td>
+            <td class=3D"xl44" style=3D"border-top:none;border-left:none"=
+>loic
+              22-6h</td>
+            <td class=3D"xl42" style=3D"border-top:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl40" style=3D"border-top:none;width:37pt"
+              width=3D"49">je</td>
+            <td class=3D"xl27"
+              style=3D"border-top:none;border-left:none;width:38pt"
+              width=3D"50">ben</td>
+          </tr>
+          <tr style=3D"mso-height-source:userset;height:12.95pt"
+            height=3D"17">
+            <td class=3D"xl22" style=3D"height:12.95pt;border-top:none;
+              width:60pt" height=3D"17" width=3D"80">jeudi</td>
+            <td class=3D"xl23"
+              style=3D"border-top:none;border-left:none;width:60pt"
+              x:num=3D"41466" width=3D"80">11/07/2013</td>
+            <td class=3D"xl37"
+              style=3D"border-top:none;border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl41" style=3D"border-top:none;width:60pt"
+              width=3D"80">humb</td>
+            <td class=3D"xl32"
+              style=3D"border-top:none;border-left:none;width:60pt"
+              width=3D"80">pat</td>
+            <td class=3D"xl37"
+              style=3D"border-top:none;border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl39" style=3D"border-top:none;width:60pt"
+              width=3D"80">surin</td>
+            <td class=3D"xl28"
+              style=3D"border-top:none;border-left:none;width:60pt"
+              width=3D"80">STE</td>
+            <td class=3D"xl37"
+              style=3D"border-top:none;border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl35" style=3D"border-top:none;width:60pt"
+              width=3D"80">CO 6h-14h</td>
+            <td class=3D"xl36" style=3D"border-top:none;border-left:none"=
+>ameline14-22h</td>
+            <td class=3D"xl44" style=3D"border-top:none;border-left:none"=
+>loic
+              22-6h</td>
+            <td class=3D"xl42" style=3D"border-top:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl40" style=3D"border-top:none;width:37pt"
+              width=3D"49">je</td>
+            <td class=3D"xl27"
+              style=3D"border-top:none;border-left:none;width:38pt"
+              width=3D"50">ben</td>
+          </tr>
+          <tr style=3D"mso-height-source:userset;height:12.95pt"
+            height=3D"17">
+            <td class=3D"xl22" style=3D"height:12.95pt;border-top:none;
+              width:60pt" height=3D"17" width=3D"80">vendredi</td>
+            <td class=3D"xl23"
+              style=3D"border-top:none;border-left:none;width:60pt"
+              x:num=3D"41467" width=3D"80">12/07/2013</td>
+            <td class=3D"xl37"
+              style=3D"border-top:none;border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl41" style=3D"border-top:none;width:60pt"
+              width=3D"80">humb</td>
+            <td class=3D"xl32"
+              style=3D"border-top:none;border-left:none;width:60pt"
+              width=3D"80">pat</td>
+            <td class=3D"xl37"
+              style=3D"border-top:none;border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl39" style=3D"border-top:none;width:60pt"
+              width=3D"80">surin</td>
+            <td class=3D"xl28"
+              style=3D"border-top:none;border-left:none;width:60pt"
+              width=3D"80">STE</td>
+            <td class=3D"xl37"
+              style=3D"border-top:none;border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl35" style=3D"border-top:none;width:60pt"
+              width=3D"80">CO 6h-14h</td>
+            <td class=3D"xl36" style=3D"border-top:none;border-left:none"=
+>ameline14-22h</td>
+            <td class=3D"xl44" style=3D"border-top:none;border-left:none"=
+>loic
+              22-6h</td>
+            <td class=3D"xl42" style=3D"border-top:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl40" style=3D"border-top:none;width:37pt"
+              width=3D"49">je</td>
+            <td class=3D"xl27"
+              style=3D"border-top:none;border-left:none;width:38pt"
+              width=3D"50">ben</td>
+          </tr>
+          <tr style=3D"mso-height-source:userset;height:12.95pt"
+            height=3D"17">
+            <td class=3D"xl22" style=3D"height:12.95pt;border-top:none;
+              width:60pt" height=3D"17" width=3D"80">samedi</td>
+            <td class=3D"xl23"
+              style=3D"border-top:none;border-left:none;width:60pt"
+              x:num=3D"41468" width=3D"80">13/07/2013</td>
+            <td class=3D"xl37"
+              style=3D"border-top:none;border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl31" style=3D"border-top:none;width:60pt"
+              width=3D"80">ludo</td>
+            <td class=3D"xl26"
+              style=3D"border-top:none;border-left:none;width:60pt"
+              width=3D"80">chris</td>
+            <td class=3D"xl37"
+              style=3D"border-top:none;border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl24" style=3D"border-top:none;width:60pt"
+              width=3D"80">domi</td>
+            <td class=3D"xl25"
+              style=3D"border-top:none;border-left:none;width:60pt"
+              width=3D"80">laurent</td>
+            <td class=3D"xl37"
+              style=3D"border-top:none;border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td colspan=3D"3" class=3D"xl48" style=3D"border-right:1.0pt =
+solid
+              black; width:212pt" width=3D"283">cl(7h45-19h45)</td>
+            <td class=3D"xl42" style=3D"border-top:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl40" style=3D"border-top:none;width:37pt"
+              width=3D"49">je</td>
+            <td class=3D"xl27"
+              style=3D"border-top:none;border-left:none;width:38pt"
+              width=3D"50">ben</td>
+          </tr>
+          <tr style=3D"mso-height-source:userset;height:12.95pt"
+            height=3D"17">
+            <td class=3D"xl29" style=3D"height:12.95pt;border-top:none;
+              width:60pt" height=3D"17" width=3D"80">dimanche</td>
+            <td class=3D"xl30"
+              style=3D"border-top:none;border-left:none;width:60pt"
+              x:num=3D"41469" width=3D"80">14/07/2013</td>
+            <td class=3D"xl38"
+              style=3D"border-top:none;border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl31" style=3D"border-top:none;width:60pt"
+              width=3D"80">ludo</td>
+            <td class=3D"xl26"
+              style=3D"border-top:none;border-left:none;width:60pt"
+              width=3D"80">chris</td>
+            <td class=3D"xl38"
+              style=3D"border-top:none;border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl24" style=3D"border-top:none;width:60pt"
+              width=3D"80">domi</td>
+            <td class=3D"xl25"
+              style=3D"border-top:none;border-left:none;width:60pt"
+              width=3D"80">laurent</td>
+            <td class=3D"xl38"
+              style=3D"border-top:none;border-left:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td colspan=3D"3" class=3D"xl50" style=3D"border-right:1.0pt =
+solid
+              black; width:212pt" width=3D"283">cl (7h45-19h45)</td>
+            <td class=3D"xl42" style=3D"border-top:none;width:14pt"
+              width=3D"18">=C2=A0</td>
+            <td class=3D"xl40" style=3D"border-top:none;width:37pt"
+              width=3D"49">je</td>
+            <td class=3D"xl27"
+              style=3D"border-top:none;border-left:none;width:38pt"
+              width=3D"50">ben</td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <br>
+      -------- Message original --------
+      <table class=3D"moz-email-headers-table" border=3D"0" cellpadding=3D=
+"0"
+        cellspacing=3D"0">
+        <tbody>
+          <tr>
+            <th align=3D"RIGHT" nowrap=3D"nowrap" valign=3D"BASELINE">Suj=
+et: </th>
+            <td>erreur ou pas sur le planning</td>
+          </tr>
+          <tr>
+            <th align=3D"RIGHT" nowrap=3D"nowrap" valign=3D"BASELINE">Dat=
+e=C2=A0: </th>
+            <td>Wed, 3 Apr 2013 14:18:25 +0200 (CEST)</td>
+          </tr>
+          <tr>
+            <th align=3D"RIGHT" nowrap=3D"nowrap" valign=3D"BASELINE">De=C2=
+=A0: </th>
+            <td>Humberto VIEIRA <a class=3D"moz-txt-link-rfc2396E" href=3D=
+"mailto:humberto.vieira@domoveil.fr">&lt;humberto.vieira@domoveil.fr&gt;<=
+/a></td>
+          </tr>
+          <tr>
+            <th align=3D"RIGHT" nowrap=3D"nowrap" valign=3D"BASELINE">Pou=
+r=C2=A0: </th>
+            <td>Sophie WILLEM <a class=3D"moz-txt-link-rfc2396E" href=3D"=
+mailto:sophie.willem@domoveil.fr">&lt;sophie.willem@domoveil.fr&gt;</a></=
+td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+      <br>
+      <pre>Re bonjour Sophie,
+
+Je me permet de t'envoy=C3=A9e ce mail car apr=C3=A8s avoir verifi=C3=A9 =
+le planning, je m'appercoie que tu me fais travail 7 jours de suite.
+Est ce une erreur ?????
+
+                       6h00-18h00      18h00-6h00
+samedi	 06/07/2013  hum    pat	     surin    STE	      ameline (7h45-19h4=
+5)	=09
+dimanche 07/07/2013  hum    pat	     surin    STE	      ameline (7h45-19h=
+45)	=09
+lundi	 08/07/2013  ludo   chris    domi   laurent	hum 6h-14      cl 14-22=
+h   loic 22-6h
+mardi	 09/07/2013  ludo   chris    domi   laurent	hum 6h-14  ameline14-22=
+h   loic 22-6h
+mercredi 10/07/2013  CO	    pat	     surin    STE	hum 6h-14  ameline14-22=
+h   loic 22-6h
+jeudi	 11/07/2013  CO	    pat	     surin    STE	hum 6h-14  ameline14-22h =
+  loic 22-6h
+vendredi 12/07/2013  CO	    pat	     surin    STE	hum 6h-14  ameline14-22=
+h   loic 22-6h
+samedi	 13/07/2013  ludo   chris    domi   laurent	            cl(7h45-19=
+h45)	=09
+dimanche 14/07/2013  ludo   chris    domi   laurent                 cl(7h=
+45-19h45)
+
+Cordialement OP Humberto
+PC DOMOVEIL
+</pre>
+      <br>
+      <br>
+    </div>
+    <br>
+  </body>
+</html>
+
+--------------060909000404080705050405--

@@ -6,9 +6,13 @@ class TestEmail(unittest.TestCase):
 https://docs.python.org/3/library/email.message.html#module-email.message
 """
 
-    def testParseEmailfromBinaryfile(self,fichier):
-        fp = open(fichier,'rb')
-        e = email.message_from_binary_file(fp)
-        verite = True if e.__len__() else False
-        self.assertTrue(verite)
+    def ParseEmailfromBinaryfile(self,fichier):
+        with open(fichier,'rb') as fp:
+            e = email.message_from_binary_file(fp)
+            verite = True if e.__len__() else False
+            return verite
+
+    def TestParseEmailFromBinaryFile(self):
+        self.assertTrue(self.ParseEmailfromBinaryfile('exemple.eml'))
         
+    

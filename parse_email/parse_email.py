@@ -7,7 +7,7 @@ Created on 2 juil. 2017
 class EmailParser(object):
     '''
     classdocs 
-    parse les emails indépendamment de la classe utilisée
+    parse les emails indÃ©pendamment de la classe utilisÃ©e
     '''
 
 
